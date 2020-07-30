@@ -13997,7 +13997,7 @@ console.log('3. hello from src/yjs...')
 
 //notes:
 //1) in package.json, compiling each .js file in public/folder and src/yjs by running `npm run compile`
-//2) including script src 'public/bundle' in index.html package
+//2) including script src 'public/bundle' in textcollab.html package
 //3) serving INDEX page in server.js by running `node server.js`, and all js files with 'server.use(/public)' in server.js
 //4) need to run `npm run compile` each time a .js file gets updated!
 //5) then restart Express server, with `node server.js`
