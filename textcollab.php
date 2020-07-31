@@ -1,2 +1,2 @@
 
-<?php header( 'Location: /textcollab.html' ) ;  ?>
+<?php header( 'Location: /index.html' ) ;  ?>
